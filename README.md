@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShoebSiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddiquishoeb/)](https://www.linkedin.com/in/aakash-handa-01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-ShoebSiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddiquishoeb/)](https://www.linkedin.com/in/siddiquishoeb/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-ShoebSiddique-yellow)](https://stackoverflow.com/users/5089622/shoeb-siddique)
 
 <!--
