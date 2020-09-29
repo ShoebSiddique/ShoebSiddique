@@ -5,7 +5,7 @@ I'm Shoeb Siddique
 Senior Full Stack Developer @ Regional One Health 
 
 🔭 I’m currently working on .Net
-🌱 I’m currently learning React
+🌱 I’m currently learning React, DevOps.
 <!--
 **ShoebSiddique/ShoebSiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
