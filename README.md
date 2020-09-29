@@ -1,8 +1,11 @@
-### Hi there 👋
-
 [![Linkedin Badge](https://img.shields.io/badge/-ShoebSiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddiquishoeb/)](https://www.linkedin.com/in/siddiquishoeb/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-ShoebSiddique-yellow)](https://stackoverflow.com/users/5089622/shoeb-siddique)
 
+I'm Shoeb Siddique
+Senior Full Stack Developer @ Regional One Health 
+
+🔭 I’m currently working on .Net
+🌱 I’m currently learning React
 <!--
 **ShoebSiddique/ShoebSiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
